@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "z",
+						"type": "uint256"
+					}
+				],
+				"name": "sum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"simpLoops.sol": "loops"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"simpLoops.sol": {
+			"keccak256": "0x866a6239843099f22735e7bdb4949beb3d4fade52fc2b23dc83b1d34b71aa8d9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://269fa2e4749cb6e125b892a2b91ce1b67772a88ec1a8a01c8017edbdf94a8d89",
+				"dweb:/ipfs/QmRz1JwPmE9Z2N2RVXJsrzaTxC1jjgqz9ysvgeF9h99bLC"
+			]
+		}
+	},
+	"version": 1
+}
